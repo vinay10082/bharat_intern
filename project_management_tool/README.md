@@ -1,0 +1,1 @@
+Social media site where user can communicate with one another. The users also get the functionality to assign tasks to others.
